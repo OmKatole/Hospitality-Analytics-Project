@@ -40,3 +40,14 @@ Skills Demonstrated
 -Data Visualization
 -Dashboard Design
 -Business Analytics
+
+## Dashboard Preview
+
+### Tableau Dashboard
+![Tableau Dashboard](Screenshots/tableau_dashboard.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](Screenshots/powerbi_dashboard.png)
+
+### Excel Dashboard
+![Excel Dashboard](Screenshots/excel_dashboard.png)
