@@ -44,10 +44,10 @@ Skills Demonstrated
 ## Dashboard Preview
 
 ### Tableau Dashboard
-![Tableau Dashboard](Screenshots/tableau_dashboard.png)
+![Tableau Dashboard](Screenshots/tableau_dashboard.jpeg)
 
 ### Power BI Dashboard
-![Power BI Dashboard](Screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](Screenshots/powerbi_dashboard.jpeg)
 
 ### Excel Dashboard
-![Excel Dashboard](Screenshots/excel_dashboard.png)
+![Excel Dashboard](Screenshots/excel_dashboard.jpeg)
