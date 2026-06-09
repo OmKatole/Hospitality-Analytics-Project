@@ -1,5 +1,6 @@
-Hospitality Analytics Project
-Project Overview
+# Hospitality Analytics Project
+
+## Project Overview
 
 This project analyzes hotel booking and revenue data using SQL, Excel, Tableau, and Power BI. The objective is to generate business insights related to revenue performance, occupancy, booking trends, and customer behavior.
 
